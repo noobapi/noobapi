@@ -1,7 +1,7 @@
 ### Hi there, I like coding!👋
 
 
-Here are some ideas to get you started:
+My Bio:
 
 - 🔭 I’m currently working on MarsBOT
 - 🌱 I’m currently learning Nothing
