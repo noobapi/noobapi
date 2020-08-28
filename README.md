@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Discord 
 - 🤔 I’m looking for help with MarsBOT
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me: instagram @inght_hyperx
+- 📫 How to reach me: instagram @night_hyperx
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend most of my day coding
 
